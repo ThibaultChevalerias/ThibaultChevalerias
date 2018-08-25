@@ -1,2 +1,2 @@
-# ThibaultChevalerias
+# ThibaultChevalerias.github.io
 TestGitHub pages
