@@ -2,4 +2,4 @@
 
 Hey, it's me!
 
-Check out my [CV](about/CV.md).
+Check out my [CV](CV.md).
