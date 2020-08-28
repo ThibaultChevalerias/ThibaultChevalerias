@@ -2,3 +2,5 @@
 
 This is a test.
 Check the GitHub Pages [README](https://thibaultchevalerias.github.io/README.md).
+
+[Contact information](about/contact.md).
